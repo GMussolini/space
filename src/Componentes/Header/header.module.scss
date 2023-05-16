@@ -47,4 +47,9 @@
     img {
       cursor: pointer;
     }
+
+    &__logo{
+      width: 120px;
+      transform: rotate(90deg);
+    }
   }
